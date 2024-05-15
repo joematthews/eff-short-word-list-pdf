@@ -5,3 +5,5 @@
 This PDF is based on the [EFF's short word list](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases) used for generating passphrases using four 6-sided dice.
 
 The PDF is formated to print very neatly on 3 double-sided US Letter size papers. A physical copy of the list could be useful for generating secure passphrases discretely, offline.
+
+[Download the PDF](https://github.com/joematthews/eff-short-word-list-pdf/releases/download/1.0.0/eff-short-word-list.pdf)
