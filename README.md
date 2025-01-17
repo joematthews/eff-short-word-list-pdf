@@ -15,4 +15,4 @@ Grab 4 six-sided dice (4d6) and roll one at a time (in series) and then take the
 Repeat these steps until you create a passphrase that has enough entropy to satisfy your paranoid mind.
 
 > [!WARNING]
-> In practice, it would not be difficult to brute force a passphrase made from the short list (too few words). This can be remedied, some-what, by throwing in some symbols. I advise not telling your friends you use this method. I'm not selling this very well..
+> In practice, it would not be difficult to brute force a passphrase made from the short list (too few words). This can be remedied, some-what, by throwing in some symbols and captilizing the words? I advise not telling your friends you use this method. I'm not selling this very well..
