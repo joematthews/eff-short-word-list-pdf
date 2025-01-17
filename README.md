@@ -1,4 +1,4 @@
-# EFF's Short Word List in PDF Format
+# EFF's Short Word List in PDF Format 🎲
 
 ![image](https://github.com/joematthews/eff-short-word-list-pdf/assets/14097616/b0e9e031-c7b2-42c2-a9f6-8e9348fff2c5)
 
